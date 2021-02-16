@@ -38,7 +38,6 @@ h1, h2 {
 footer {
   grid-row-start: 2;
   grid-row-end: 3;
-  color: black;
   font-size: 9px;
 }
 
@@ -47,9 +46,6 @@ a {
 }
 a:visited {
   color: #941352;
-}
-footer > a {
-  color: #888 !important;
 }
 
 blockquote {
